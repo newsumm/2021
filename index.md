@@ -198,7 +198,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 	  <div class="container">
 		<center>
 		<h4>
-      <a href="https://sebastiangehrmann.com/"><b>Sebastian Gehrmann</b></a>
+      <a href="https://github.com/sebastianGehrmann"><b>Sebastian Gehrmann</b></a>
 			<br>
 			Google
       <br>
