@@ -8,10 +8,10 @@
 layout: home
 ---
 
-<!-- <img src="/images/deep.jpg"> -->
+<!-- <img src="/2021/images/deep.jpg"> -->
 <center>
-<h2 class="blackpar_title"> New Frontiers in Summarization Workshop </h2>
-<h3 class="blackpar_title">The Third NewSum Workshop </h3>
+<h2 class="blackpar_title"> The Third New Frontiers in Summarization Workshop </h2>
+<h3 class="blackpar_title"> 2021 </h3>
 </center>
 <p>
 The Third Workshop on “New Frontiers in Summarization workshop” aims to provide a research forum for cross-fertilization of ideas in automatic summarization and related areas. This includes discussion on novel paradigms/frameworks, shared tasks of interest, information integration and presentation, applied research and applications, and possible future research foci. The workshop will pave the way towards building a cohesive research community, accelerating knowledge diffusion, developing new tools, datasets and resources that are in line with the needs of academia, industry, and government.
@@ -37,7 +37,7 @@ The goal for this workshop is to provide a research forum for cross-fertilizatio
 <!-- Workshop Statistics -->
 <h2 class="blackpar_title" id="Workshop Statistics">Workshop Statistics</h2>
 
-**Registrations:**  NewSum has **319** registered attendees at EMNLP 2021 with the following distribution: 
+**Registrations:**  NewSumm has **319** registered attendees at EMNLP 2021 with the following distribution: 
 
 - Virtual Student: 149
 - Virtual Regular: 143
@@ -93,7 +93,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 <h2 class="blackpar_title" id="Organizers">Organizers</h2>
 <div class="row">
     <div class="card column" style="margin-left:0;">
-	  <img src="/images/lu_wang.JPG" alt="Lu Wang" class="img_card">
+	  <img src="/2021/images/lu_wang.JPG" alt="Lu Wang" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
@@ -106,7 +106,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 	</div>
   
   <div class="card column" >
-  <img src="/images/fei_liu.jpg" alt="Fei Liu" class="img_card">
+  <img src="/2021/images/fei_liu.jpg" alt="Fei Liu" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
@@ -119,7 +119,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 	</div>
   
 <div class="card column" >
-	  <img src="/images/Yue_Dong.jpg" alt="Yue Dong" class="img_card">
+	  <img src="/2021/images/Yue_Dong.jpg" alt="Yue Dong" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
@@ -134,7 +134,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 
 <div class="row">
 <div class="card column">
-	  <img src="/images/giuseppe_carenini.JPG" alt="Giuseppe Carenini" class="img_card">
+	  <img src="/2021/images/giuseppe_carenini.JPG" alt="Giuseppe Carenini" class="img_card">
 	  <div class="container" >
 		<center>
 		<h4>
@@ -147,7 +147,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 	</div>
   
 <div class="card column">
-	  <img src="/images/jackie_cheung.JPG" alt="Jackie Chi Kit Cheung" class="img_card">
+	  <img src="/2021/images/jackie_cheung.JPG" alt="Jackie Chi Kit Cheung" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
@@ -167,7 +167,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 <h2 class="blackpar_title" id="Confirmed Spearkers">Confirmed Spearkers</h2>
 <div class="row">
 	<div class="card column">
-	  <img src="/images/shashi.jpeg" alt="Shashi Narayan" class="img_card">
+	  <img src="/2021/images/shashi.jpeg" alt="Shashi Narayan" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
@@ -182,7 +182,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 	  </div>
 	</div>
 	<div class="card column">
-	  <img src="/images/asli.jpeg" alt="Asli Celikyilmaz" class="img_card">
+	  <img src="/2021/images/asli.jpeg" alt="Asli Celikyilmaz" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
@@ -194,7 +194,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 	  </div>
 	</div>
 	<div class="card column">
-	  <img src="/images/sebastian_gehrmann.jpeg" alt="Sebastian Gehrmann" class="img_card">
+	  <img src="/2021/images/sebastian_gehrmann.jpeg" alt="Sebastian Gehrmann" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
@@ -214,7 +214,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 
 <br> <br>
 <h2 class="blackpar_title" id="Schedule"><b>Schedule</b></h2>
-<a href="https://summarization-workshop.github.io/schedule/"><b>NewSum 2021 schedule (9am - 6pm AST)</b></a>
+<a href="https://newsumm.github.io/2021/schedule/"><b>NewSum 2021 schedule (9am - 6pm AST)</b></a>
 
 
 <h2 class="blackpar_title" id="Technical Committee">Technical Committee</h2>
